@@ -1,0 +1,20 @@
+h1 {
+    color:rgb(253, 215, 0);
+
+}
+h2{
+    color:rgb(8, 11, 207);
+}
+ h3{
+     color:aqua;
+ }  
+ .header{
+     background-color:rgb(30, 255, 0);
+     display:flex;
+     justify-content:space-between;
+ } 
+ .menu{
+    display:flex;
+    justify-content:space-between;
+    flex-wrap:initial;
+ }
